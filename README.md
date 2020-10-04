@@ -1,14 +1,14 @@
 # automated-simulink-data-collection-with-matlab
 <p align="center">
-<img src="/images/model.PNG">
+<img src="/images/model.PNG" height=300>
 </p>
 
 <p align="center">
-<img src="/images/plot.PNG"> 
+<img src="/images/plot.png" width=550> 
 </p>
 
 <p align="center">
-<img src="/images/table.PNG">
+<img src="/images/table.PNG" height=200>
 </p>
 
 ## Description
