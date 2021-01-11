@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<img src="/images/table.PNG" height=200>
+<img src="/images/table_v2.png" height=200>
 </p>
 
 ## Description
